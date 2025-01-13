@@ -14,7 +14,7 @@ include 'Utiles/vendor/phpmailer/phpmailer/src/PHPMailer.php';
 include 'Utiles/vendor/phpmailer/phpmailer/src/SMTP.php';
 
 // MODIFICAR SEGÚN TENGAS EL PROYECTO GUARDADO LOCALMENTE
-$PROYECTO = 'TP-Final-PWD';
+$PROYECTO = 'veterinaria';
 
 // ALMACENA EL DIRECTORIO DEL PROYECTO
 $ROOT = $_SERVER['DOCUMENT_ROOT']."/$PROYECTO/";
